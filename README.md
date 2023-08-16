@@ -1,4 +1,4 @@
 ## WE-CARE App
-A mobile application that facilitates making appointments and monitoring patients.
+A health-care application that helps in making appointments and monitoring patients.
 ## BY
 **ADITYA KUMAR and ADITYA DEO RAJ**
